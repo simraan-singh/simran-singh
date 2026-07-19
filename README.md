@@ -1,5 +1,3 @@
-# simran-singh
-
 <h1 align="center">Hi there 👋, I'm Simran Singh</h1>
 <h3 align="center">A passionate Student & Web Developer, always learning and building.</h3>
 
